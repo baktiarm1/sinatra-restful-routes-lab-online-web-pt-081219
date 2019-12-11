@@ -103,7 +103,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord (= 4.2.7.1)
+  activerecord
   capybara
   database_cleaner
   json
